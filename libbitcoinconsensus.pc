@@ -1,0 +1,11 @@
+prefix=/home/ubuntu/Desktop/tgk/depends/i686-w64-mingw32
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: TGK Core consensus library
+Description: Library for the Bitcoin consensus protocol.
+Version: 0.15.1
+Libs: -L${libdir} -lbitcoinconsensus
+Cflags: -I${includedir}
+Requires.private: libcrypto

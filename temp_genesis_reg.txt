@@ -1,0 +1,11 @@
+04ffff001d01041f492077616e742065766572796f6e6520746f207573652054474b20436f696e
+algorithm: scrypt
+merkle hash: 2ba2bb9caa566688a5372ce3071ec98f54c23338dc773fb54395d5f7fa2f23c9
+pszTimestamp: I want everyone to use TGK Coin
+pubkey: 045ccc669753e888db7b5db023c49d3d2c4b4523ed443393c3f99815895a90ceffdf2034c5cd7730e18a9502226d5c47b0a959e8b0a57ac46c91a102aaa83f163a
+time: 1527062771
+bits: 0x207fffff
+Searching for genesis hash..
+genesis hash found!
+nonce: 0
+genesis hash: 20c3d5977f5aa98421bca8676cc5dd57e2286aaaae36bcecf203bcc591bc1c05
